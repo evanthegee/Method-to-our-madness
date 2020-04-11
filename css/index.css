@@ -5,6 +5,7 @@ body{
 
 head{
 	background-color: #FE5F55;
+	text-align: center;
 }
 
 img{
@@ -21,7 +22,7 @@ h1, h2{
 
 body p{
 	font-family: arial;	
-	text-align: center;
+	text-align:left;
 }
 
 body br{
