@@ -14,15 +14,12 @@ head img{
 }
 
 h1, h2{
-	font-family: 'Abril Fatface', cursive;
-	font-family: 'Source Serif Pro', serif;
-	font-family: 'Amatic SC', cursive;
 	font-family: 'Caveat', cursive;
 	padding-top:50px;
 	padding-bottom: 50px;
 }
 
-p{
+body p{
 	font-family: arial;	
 	text-align: center;
 }
