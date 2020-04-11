@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	background-color: #D1F2EB;
+}
+
+header{
+	background-color: #A3E4D7;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border:15px solid #663a82;
+}
+
+h1, h2{
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	padding-top:50px;
+	padding-bottom: 50px;
+}
+
+p{
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+}
