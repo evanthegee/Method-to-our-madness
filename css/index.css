@@ -18,11 +18,12 @@ h1, h2{
 	font-family: 'Caveat', cursive;
 	padding-top:50px;
 	padding-bottom: 50px;
+	text-align: center
 }
 
 body p{
 	font-family: arial;	
-	text-align:left;
+	text-align:center;
 }
 
 body br{
