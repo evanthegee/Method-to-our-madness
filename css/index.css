@@ -3,11 +3,11 @@ body{
 	background-color: #D1F2EB;
 }
 
-header{
+head{
 	background-color: #A3E4D7;
 }
 
-header img{
+head img{
 	border-radius: 170px;
 	width: 300px;
 	border:15px solid #663a82;
